@@ -13,7 +13,7 @@ string rtrim(const string &);
  */
  
 /*
- * ----- Start of my solution----- 
+ * ----- Start of my solution 
  * I am solving this problem with a doubly linked list. Each node contains an
  * opening bracket and if a matching closing bracket is found for the current 
  * node, the node is deleted.
